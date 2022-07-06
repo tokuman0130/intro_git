@@ -1,2 +1,3 @@
 こんにちは
 git status
+git diff
